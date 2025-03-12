@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "category": "people",
+    "name": "アインシュタイン",
+    "start": 1879,
+    "end": 1955,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1905,
+        "content": "特殊相対性理論を発表"
+      },
+      {
+        "id": 2,
+        "start": 1915,
+        "content": "一般相対性理論を発表"
+      },
+      {
+        "id": 3,
+        "start": 1921,
+        "content": "ノーベル物理学賞を受賞"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "category": "people",
+    "name": "ニュートン",
+    "start": 1643,
+    "end": 1727,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GodfreyKneller-IsaacNewton-1689.jpg/220px-GodfreyKneller-IsaacNewton-1689.jpg",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1687,
+        "content": "プリンキピアを出版"
+      },
+      {
+        "id": 2,
+        "start": 1703,
+        "content": "王立協会の会長に就任"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "category": "organization",
+    "name": "NASA",
+    "start": 1958,
+    "end": 0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/220px-NASA_logo.svg.png",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1969,
+        "content": "アポロ11号が月面着陸"
+      },
+      {
+        "id": 2,
+        "start": 1990,
+        "content": "ハッブル宇宙望遠鏡の打ち上げ"
+      },
+      {
+        "id": 3,
+        "start": 2012,
+        "content": "キュリオシティが火星に着陸"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "category": "organization",
+    "name": "国際連合",
+    "start": 1945,
+    "end": 0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/220px-Flag_of_the_United_Nations.svg.png",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1945,
+        "content": "国連憲章の調印"
+      },
+      {
+        "id": 2,
+        "start": 1948,
+        "content": "世界人権宣言の採択"
+      },
+      {
+        "id": 3,
+        "start": 2000,
+        "content": "ミレニアム開発目標の採択"
+      }
+    ]
+  }
+]
