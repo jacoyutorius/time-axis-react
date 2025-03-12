@@ -26,6 +26,84 @@
     ]
   },
   {
+    "id": "5",
+    "category": "people",
+    "name": "ヴァルター・グロピウス",
+    "start": 1883,
+    "end": 1969,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gropius_portrait.jpg/220px-Gropius_portrait.jpg",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1919,
+        "content": "バウハウスを設立"
+      },
+      {
+        "id": 2,
+        "start": 1928,
+        "content": "バウハウスの校長を辞任"
+      },
+      {
+        "id": 3,
+        "start": 1937,
+        "content": "ハーバード大学の教授に就任"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "category": "people",
+    "name": "モホリ=ナジ・ラースロー",
+    "start": 1895,
+    "end": 1946,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Moholy-Nagy.jpg/220px-Moholy-Nagy.jpg",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1923,
+        "content": "バウハウスの教師に就任"
+      },
+      {
+        "id": 2,
+        "start": 1928,
+        "content": "バウハウスを離れる"
+      },
+      {
+        "id": 3,
+        "start": 1937,
+        "content": "ニュー・バウハウスを設立（シカゴ）"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "category": "people",
+    "name": "ヨハネス・イッテン",
+    "start": 1888,
+    "end": 1967,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Johannes_Itten_1921.jpg/220px-Johannes_Itten_1921.jpg",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1919,
+        "content": "バウハウスの教師に就任"
+      },
+      {
+        "id": 2,
+        "start": 1923,
+        "content": "バウハウスを離れる"
+      },
+      {
+        "id": 3,
+        "start": 1938,
+        "content": "チューリッヒ工芸学校の校長に就任"
+      }
+    ]
+  },
+  {
     "id": "2",
     "category": "people",
     "name": "ニュートン",
