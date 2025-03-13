@@ -175,5 +175,135 @@
         "content": "ミレニアム開発目標の採択"
       }
     ]
+  },
+  {
+    "id": "8",
+    "category": "organization",
+    "name": "バウハウス",
+    "start": 1919,
+    "end": 1933,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bauhaus_Dessau_1926.jpg/220px-Bauhaus_Dessau_1926.jpg",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1919,
+        "content": "ヴァルター・グロピウスにより設立"
+      },
+      {
+        "id": 2,
+        "start": 1925,
+        "content": "ヴァイマルからデッサウへ移転"
+      },
+      {
+        "id": 3,
+        "start": 1933,
+        "content": "ナチスにより閉鎖"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "category": "organization",
+    "name": "ユニクロ",
+    "start": 1984,
+    "end": 0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Uniqlo_logo.svg/220px-Uniqlo_logo.svg.png",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1994,
+        "content": "初の海外店舗を開店（ロンドン）"
+      },
+      {
+        "id": 2,
+        "start": 2005,
+        "content": "東証一部上場"
+      },
+      {
+        "id": 3,
+        "start": 2011,
+        "content": "ユニクロパリ店を開店"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "category": "organization",
+    "name": "リーバイス",
+    "start": 1853,
+    "end": 0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Levis_logo.svg/220px-Levis_logo.svg.png",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1873,
+        "content": "リーバイス501が誕生"
+      },
+      {
+        "id": 2,
+        "start": 1902,
+        "content": "リーバイス501XXが誕生"
+      },
+      {
+        "id": 3,
+        "start": 1936,
+        "content": "リーバイスジーンズが初のスポンサー"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "category": "organization",
+    "name": "ロレックス",
+    "start": 1905,
+    "end": 0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rolex_logo.svg/220px-Rolex_logo.svg.png",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1926,
+        "content": "オイスターケースを発表"
+      },
+      {
+        "id": 2,
+        "start": 1945,
+        "content": "デイトジャストを発表"
+      },
+      {
+        "id": 3,
+        "start": 1953,
+        "content": "サブマリーナを発表"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "category": "organization",
+    "name": "三菱商事",
+    "start": 1954,
+    "end": 0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mitsubishi_Corporation_logo.svg/220px-Mitsubishi_Corporation_logo.svg.png",
+    "selected": false,
+    "events": [
+      {
+        "id": 1,
+        "start": 1955,
+        "content": "三菱商事株式会社に社名変更"
+      },
+      {
+        "id": 2,
+        "start": 1960,
+        "content": "三菱商事株式会社に社名変更"
+      },
+      {
+        "id": 3,
+        "start": 1971,
+        "content": "三菱商事株式会社に社名変更"
+      }
+    ]
   }
 ]
